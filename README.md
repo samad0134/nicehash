@@ -1,0 +1,2 @@
+# nicehash
+Mining
